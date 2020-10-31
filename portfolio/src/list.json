@@ -1,0 +1,44 @@
+[ 
+{
+    "id":1,
+    "name":"Weather App",
+    "img":"../assets/Weather.jpg",
+    "description":"An app that uses a third party api to find the weather. It also gives a 5 day forecast",
+    "link":"https://wuzzlefump.github.io/wuzzlefump.github.io-weather/"
+},
+{
+    "id":2,
+    "name":"Dance Helper",
+    "img":"../assets/Equalizer.png",
+    "description":"A site to help educate people about dance, and share my biased opinions about them.",
+    "link":"https://wuzzlefump.github.io/DanceHelper/"
+},
+{
+    "id":3,
+    "name":"Quik Code",
+    "img":"../assets/Code.png",
+    "description":"An App that saves and stores code snippets using SQL. It makes API calls and even has funny jokes on the bottom.",
+    "link":"https://group-1-repo.herokuapp.com/"
+},
+{
+    "id":4,
+    "name":" Day Planner",
+    "img":"../assets/Planner.png",
+    "description":"An App that makes planning my workday easier. It keeps track of my plans using local memory. and the time of day as well ",
+    "link":"https://wuzzlefump.github.io/wuzzlefump.github.io-day-planner/"
+},
+{
+    "id":5,
+    "name":"Rock Paper Sissors Lizard Spock",
+    "img":"../assets/rps.png",
+    "description":"Like Playing 'Rock Paper Scissors'? Now You Can Play 'Rock Paper Scissors Lzard Spock'",
+    "link":"https://wuzzlefump.github.io/wuzzlefump.github.io-rock-paper-scissors-lizard-spock/"
+},
+{
+    "id":6,
+    "name":"Budget Tracker",
+    "img":"../assets/budget.png",
+    "description":"Wanna Track Your Budget? this app uses mongo and index db to help do that",
+    "link":""
+}
+]
