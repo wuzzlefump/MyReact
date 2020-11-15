@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/MyReact/static/css/main.8e14bf02.chunk.css",
+    "main.js": "/MyReact/static/js/main.4d8b02d7.chunk.js",
+    "main.js.map": "/MyReact/static/js/main.4d8b02d7.chunk.js.map",
+    "runtime-main.js": "/MyReact/static/js/runtime-main.bd68a521.js",
+    "runtime-main.js.map": "/MyReact/static/js/runtime-main.bd68a521.js.map",
+    "static/js/2.46b51092.chunk.js": "/MyReact/static/js/2.46b51092.chunk.js",
+    "static/js/2.46b51092.chunk.js.map": "/MyReact/static/js/2.46b51092.chunk.js.map",
+    "static/js/3.cb4fb097.chunk.js": "/MyReact/static/js/3.cb4fb097.chunk.js",
+    "static/js/3.cb4fb097.chunk.js.map": "/MyReact/static/js/3.cb4fb097.chunk.js.map",
+    "index.html": "/MyReact/index.html",
+    "static/css/main.8e14bf02.chunk.css.map": "/MyReact/static/css/main.8e14bf02.chunk.css.map",
+    "static/js/2.46b51092.chunk.js.LICENSE.txt": "/MyReact/static/js/2.46b51092.chunk.js.LICENSE.txt",
+    "static/media/Paul.3879f7c0.jpg": "/MyReact/static/media/Paul.3879f7c0.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bd68a521.js",
+    "static/js/2.46b51092.chunk.js",
+    "static/css/main.8e14bf02.chunk.css",
+    "static/js/main.4d8b02d7.chunk.js"
+  ]
+}
