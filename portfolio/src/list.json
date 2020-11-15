@@ -36,9 +36,9 @@
 },
 {
     "id":6,
-    "name":"Budget Tracker",
+    "name":"Employee Directory",
     "img":"../assets/budget.png",
-    "description":"Wanna Track Your Budget? this app uses mongo and index db to help do that",
-    "link":""
+    "description":"A React app that sorts and filters a list of employees non sensitive information",
+    "link":"https://wuzzlefump.github.io/ReactEmployee/"
 }
 ]

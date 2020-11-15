@@ -20,7 +20,7 @@ class Contact extends Component{
         <InputGroup.Prepend>
         <InputGroup.Text>textarea</InputGroup.Text>
         </InputGroup.Prepend>
-        <FormControl as="textarea" aria-label="With textarea" />
+        <FormControl placeholder="Email Function in developement" as="textarea" aria-label="With textarea" />
         </InputGroup>
             <Button>Submit</Button>
 </Card></div>  )

@@ -3,6 +3,7 @@ import TheNav from './nav'
 import Profile from './pages/profile';
 import Portfolio from './pages/portfolio';
 import Contact from './pages/contact'
+import Footer from './footer'
 
 class Port extends Component {
     state = {
@@ -30,6 +31,7 @@ class Port extends Component {
             handlePageChange={this.handlePageChange}
           />
             {this.renderPage()}
+            <Footer/>
         </div>
       );
     }

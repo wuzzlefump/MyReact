@@ -2,6 +2,7 @@ import React, {Component} from 'react';
 import Card from 'react-bootstrap/Card'
 import Button from 'react-bootstrap/Button'
 import Paul from '../../images/Paul.jpg'
+import Footer from '../footer'
 
 class Profile extends Component{
 
@@ -11,10 +12,8 @@ class Profile extends Component{
         <Card.Body>
           <Card.Title>Paul Elliott</Card.Title>
           <Card.Text>
-            Some quick example text to build on the card title and make up the bulk of
-            the card's content.
+            By day Paul is a Ballroom Dance Instructor, By night he is a web developer. Regardless of the time of day paul loves to put his creative mind to work.
           </Card.Text>
-          <Button variant="success">Go somewhere</Button>
         </Card.Body>
       </Card></div>)
     }
